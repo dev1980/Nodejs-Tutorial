@@ -1,6 +1,6 @@
 // GLOBAL - NO WINDOW!!!
 // no window but node has global veriables
-// __diname - path to current directory
+// __dirname - path to current directory
 // __filename - file name
 //require - function to use modules (CommonJS)
 //module -info about current module(file)
